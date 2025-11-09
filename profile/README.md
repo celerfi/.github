@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/celerfi-logo.png" alt="CelerFi Logo" width="200"/>
+  <img src="profile/logo_1_png.png" alt="CelerFi Logo" width="200"/>
   
   # CELERFI
   
